@@ -1,0 +1,26 @@
+<annotation>
+	<folder>adults</folder>
+	<filename>191.jpg</filename>
+	<path>C:\Users\User\Desktop\ML\final_110511177\dataset\dataset\train\adults\191.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>370</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>0</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>149</xmin>
+			<ymin>72</ymin>
+			<xmax>216</xmax>
+			<ymax>168</ymax>
+		</bndbox>
+	</object>
+</annotation>
